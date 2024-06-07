@@ -1,11 +1,11 @@
-Key Features:
+**Key Features:**
 - Google Authentication integration
 - Local signup and login functionality
 - Secure password hashing with bcrypt
 - Session management with express-session
 - User-friendly interface with EJS templates
 
-Technologies Used:
+**Technologies Used:**
 - Node.js
 - Express.js
 - PostgreSQL
@@ -15,7 +15,7 @@ Technologies Used:
 - bcrypt
 - express-session
 
-Getting Started:
+**Getting Started:**
 1. Clone the repository: git clone https://github.com/yourusername/authapp.git
 2. Install dependencies: npm install
 3. Set up the PostgreSQL database and configure environment variables
